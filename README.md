@@ -2,7 +2,7 @@
 - 👀 Developer of BluePivoTV
 - 🌱 I’m currently learning web performance
 - 💞️ I’m looking to collaborate on payment gateway
-- 📫 How to reach me info@bluepivottv.com / itxram18@gmail.com
+- 📫 How to reach me ram@bluepivottv.com / itxram18@gmail.com
 - 😄 N/A
 - ⚡ Fun fact: full-stack developer
 
